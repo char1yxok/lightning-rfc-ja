@@ -7,3 +7,5 @@ Bitcoinのスケーラビリティ問題を解消する一つの方策としてL
 [Basis of Lightning Technology (BOLT)](https://github.com/lightningnetwork/lightning-rfc/)
 
 このページでは各章ごとに解説を行う。
+
+[BOLT #08-メッセージの暗号化と認証](https://github.com/char1yxok/lightning-rfc-ja/blob/master/doc/08.md)  
