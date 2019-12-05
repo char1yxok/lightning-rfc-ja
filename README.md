@@ -10,3 +10,4 @@ Bitcoinのスケーラビリティ問題を解消する一つの方策としてL
 
 [BOLT #01-ベースプロトコル](https://github.com/char1yxok/lightning-rfc-ja/blob/master/doc/01.md)  
 [BOLT #08-メッセージの暗号化と認証](https://github.com/char1yxok/lightning-rfc-ja/blob/master/doc/08.md)  
+[BOLT #09-機能フラグの割り当て](https://github.com/char1yxok/lightning-rfc-ja/blob/master/doc/09.md)  
